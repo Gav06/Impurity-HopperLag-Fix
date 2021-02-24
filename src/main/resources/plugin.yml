@@ -1,0 +1,5 @@
+name: ImpurityHopperFix
+version: ${project.version}
+main: me.gavin.hopper.Main
+authors: [ Gav06 ]
+description: hotfix for impurity
